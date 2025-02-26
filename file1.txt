@@ -1,3 +1,1 @@
 Hi This is my first file in master repo
-
-Adding one more new line
